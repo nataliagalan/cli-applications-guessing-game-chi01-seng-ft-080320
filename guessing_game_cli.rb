@@ -12,5 +12,6 @@ def run_guessing_game
     input == random
     print "You guessed the correct number!"
   end
+end
 
 end
